@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\repos\\CSharp-programming.-Independent-work-from-books\\CSharp Programming for Beginners. Basic information. Alexey Vasiliev\\Chapter_01\\Task_10.2\\Task_10.2.csproj",
-      "projectName": "Task_10.2",
-      "projectPath": "D:\\repos\\CSharp-programming.-Independent-work-from-books\\CSharp Programming for Beginners. Basic information. Alexey Vasiliev\\Chapter_01\\Task_10.2\\Task_10.2.csproj",
+      "projectUniqueName": "D:\\repos\\CSharp-programming.-Independent-work-from-books\\CSharp Programming for Beginners. Basic information. Alexey Vasiliev\\Chapter_01\\Task_10.2\\Task_10.csproj",
+      "projectName": "Task_10",
+      "projectPath": "D:\\repos\\CSharp-programming.-Independent-work-from-books\\CSharp Programming for Beginners. Basic information. Alexey Vasiliev\\Chapter_01\\Task_10.2\\Task_10.csproj",
       "packagesPath": "C:\\Users\\alex-\\.nuget\\packages\\",
       "outputPath": "D:\\repos\\CSharp-programming.-Independent-work-from-books\\CSharp Programming for Beginners. Basic information. Alexey Vasiliev\\Chapter_01\\Task_10.2\\obj\\",
       "projectStyle": "PackageReference",
