@@ -12,7 +12,11 @@ namespace Task_5._1
         {
         static void Main(string[] args)
             {
-            Console.WriteLine("Hello World!");
+            Console.Write("Введите ваш год рождения: ");
+            int year = Convert.ToInt32(Console.ReadLine());
+            int tempDate = DateTime.Today.Year;
+
+            Console.WriteLine($"Вам примерно {tempDate - year}.");
             }
         }
     }

@@ -15,7 +15,12 @@ namespace Task_2._2
         {
         static void Main(string[] args)
             {
-            Console.WriteLine("Hello World!");
+            Console.Write("Введите ваше имя: ");
+            string name = Console.ReadLine();
+            Console.Write("Введите ваш возраст: ");
+            string years = Console.ReadLine();
+
+            Console.WriteLine($"Вас зовут {name} и вам {years}");
             }
         }
     }

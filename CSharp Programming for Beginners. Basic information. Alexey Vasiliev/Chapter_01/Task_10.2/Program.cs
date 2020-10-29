@@ -13,7 +13,12 @@ namespace Task_10._2
         {
         static void Main(string[] args)
             {
-            Console.WriteLine("Hello World!");
+            Console.Write("Введите первое число: ");
+            int a = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Введите второе число: ");
+            int b = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine($"Сумма этих чисел равна: {a + b}\r\nРазность этих чисел равна {b - a}");
             }
         }
     }

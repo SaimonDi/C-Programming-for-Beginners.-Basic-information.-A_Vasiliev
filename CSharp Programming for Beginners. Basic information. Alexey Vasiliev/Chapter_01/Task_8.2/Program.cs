@@ -14,7 +14,12 @@ namespace Task_8._2
         {
         static void Main(string[] args)
             {
-            Console.WriteLine("Hello World!");
+            Console.Write("Введите первое число: ");
+            int a = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Введите второе число: ");
+            int b = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine($"Сумма чисел равна {a+b}.");
             }
         }
     }

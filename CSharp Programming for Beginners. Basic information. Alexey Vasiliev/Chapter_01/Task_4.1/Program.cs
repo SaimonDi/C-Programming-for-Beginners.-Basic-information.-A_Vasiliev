@@ -13,7 +13,12 @@ namespace Task_4._1
         {
         static void Main(string[] args)
             {
-            Console.WriteLine("Hello World!");
+            Console.Write("Какой сейчас месяц? ");
+            string month = Console.ReadLine();
+            Console.Write("Сколько дней в этом месяце? ");
+            string dayInMonth = Console.ReadLine();
+
+            Console.WriteLine($"Сейчас {month} и в нём {dayInMonth} день");
             }
         }
     }

@@ -14,7 +14,14 @@ namespace Task_6._2
         {
         static void Main(string[] args)
             {
-            Console.WriteLine("Hello World!");
+            Console.Write("Введите ваше имя: ");
+            string name = Console.ReadLine();
+            Console.Write("Введи год вашего рождения: ");
+            int year = Convert.ToInt32(Console.ReadLine());
+            int date = DateTime.Now.Year;
+
+            Console.WriteLine($"Вас зовут {name} и вам {date-year}");
+
             }
         }
     }

@@ -15,7 +15,10 @@ namespace Task_9._2
         {
         static void Main(string[] args)
             {
-            Console.WriteLine("Hello World!");
+            Console.Write("Введите число: ");
+            int num = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine($"{num - 1} {num} {num + 1}");
             }
         }
     }

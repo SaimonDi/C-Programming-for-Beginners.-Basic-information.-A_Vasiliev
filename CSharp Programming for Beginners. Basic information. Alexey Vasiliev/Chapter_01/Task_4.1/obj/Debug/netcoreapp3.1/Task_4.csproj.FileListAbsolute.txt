@@ -1,0 +1,12 @@
+D:\repos\CSharp-programming.-Independent-work-from-books\CSharp Programming for Beginners. Basic information. Alexey Vasiliev\Chapter_01\Task_4.1\bin\Debug\netcoreapp3.1\Task_4.exe
+D:\repos\CSharp-programming.-Independent-work-from-books\CSharp Programming for Beginners. Basic information. Alexey Vasiliev\Chapter_01\Task_4.1\bin\Debug\netcoreapp3.1\Task_4.deps.json
+D:\repos\CSharp-programming.-Independent-work-from-books\CSharp Programming for Beginners. Basic information. Alexey Vasiliev\Chapter_01\Task_4.1\bin\Debug\netcoreapp3.1\Task_4.runtimeconfig.json
+D:\repos\CSharp-programming.-Independent-work-from-books\CSharp Programming for Beginners. Basic information. Alexey Vasiliev\Chapter_01\Task_4.1\bin\Debug\netcoreapp3.1\Task_4.runtimeconfig.dev.json
+D:\repos\CSharp-programming.-Independent-work-from-books\CSharp Programming for Beginners. Basic information. Alexey Vasiliev\Chapter_01\Task_4.1\bin\Debug\netcoreapp3.1\Task_4.dll
+D:\repos\CSharp-programming.-Independent-work-from-books\CSharp Programming for Beginners. Basic information. Alexey Vasiliev\Chapter_01\Task_4.1\bin\Debug\netcoreapp3.1\Task_4.pdb
+D:\repos\CSharp-programming.-Independent-work-from-books\CSharp Programming for Beginners. Basic information. Alexey Vasiliev\Chapter_01\Task_4.1\obj\Debug\netcoreapp3.1\Task_4.AssemblyInfoInputs.cache
+D:\repos\CSharp-programming.-Independent-work-from-books\CSharp Programming for Beginners. Basic information. Alexey Vasiliev\Chapter_01\Task_4.1\obj\Debug\netcoreapp3.1\Task_4.AssemblyInfo.cs
+D:\repos\CSharp-programming.-Independent-work-from-books\CSharp Programming for Beginners. Basic information. Alexey Vasiliev\Chapter_01\Task_4.1\obj\Debug\netcoreapp3.1\Task_4.csproj.CoreCompileInputs.cache
+D:\repos\CSharp-programming.-Independent-work-from-books\CSharp Programming for Beginners. Basic information. Alexey Vasiliev\Chapter_01\Task_4.1\obj\Debug\netcoreapp3.1\Task_4.dll
+D:\repos\CSharp-programming.-Independent-work-from-books\CSharp Programming for Beginners. Basic information. Alexey Vasiliev\Chapter_01\Task_4.1\obj\Debug\netcoreapp3.1\Task_4.pdb
+D:\repos\CSharp-programming.-Independent-work-from-books\CSharp Programming for Beginners. Basic information. Alexey Vasiliev\Chapter_01\Task_4.1\obj\Debug\netcoreapp3.1\Task_4.genruntimeconfig.cache
