@@ -1,0 +1,7 @@
+D:\repos\RebusInThePool_349\RebusInThePool_349\bin\Debug\RebusInThePool_349.exe.config
+D:\repos\RebusInThePool_349\RebusInThePool_349\bin\Debug\RebusInThePool_349.exe
+D:\repos\RebusInThePool_349\RebusInThePool_349\bin\Debug\RebusInThePool_349.pdb
+D:\repos\RebusInThePool_349\RebusInThePool_349\obj\Debug\RebusInThePool_349.csprojAssemblyReference.cache
+D:\repos\RebusInThePool_349\RebusInThePool_349\obj\Debug\RebusInThePool_349.csproj.CoreCompileInputs.cache
+D:\repos\RebusInThePool_349\RebusInThePool_349\obj\Debug\RebusInThePool_349.exe
+D:\repos\RebusInThePool_349\RebusInThePool_349\obj\Debug\RebusInThePool_349.pdb

@@ -1,0 +1,10 @@
+D:\repos\Наследование\Наследование\bin\Debug\Наследование.exe.config
+D:\repos\Наследование\Наследование\bin\Debug\Наследование.exe
+D:\repos\Наследование\Наследование\bin\Debug\Наследование.pdb
+D:\repos\Наследование\Наследование\obj\Debug\Наследование.csprojAssemblyReference.cache
+D:\repos\Наследование\Наследование\obj\Debug\Наследование.Form1.resources
+D:\repos\Наследование\Наследование\obj\Debug\Наследование.Properties.Resources.resources
+D:\repos\Наследование\Наследование\obj\Debug\Наследование.csproj.GenerateResource.cache
+D:\repos\Наследование\Наследование\obj\Debug\Наследование.csproj.CoreCompileInputs.cache
+D:\repos\Наследование\Наследование\obj\Debug\Наследование.exe
+D:\repos\Наследование\Наследование\obj\Debug\Наследование.pdb

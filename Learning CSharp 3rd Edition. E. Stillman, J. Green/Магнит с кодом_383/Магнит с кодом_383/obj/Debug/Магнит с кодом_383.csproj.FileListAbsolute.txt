@@ -1,0 +1,10 @@
+D:\repos\Магнит с кодом_383\Магнит с кодом_383\bin\Debug\Магнит с кодом_383.exe.config
+D:\repos\Магнит с кодом_383\Магнит с кодом_383\bin\Debug\Магнит с кодом_383.exe
+D:\repos\Магнит с кодом_383\Магнит с кодом_383\bin\Debug\Магнит с кодом_383.pdb
+D:\repos\Магнит с кодом_383\Магнит с кодом_383\obj\Debug\Магнит с кодом_383.csprojAssemblyReference.cache
+D:\repos\Магнит с кодом_383\Магнит с кодом_383\obj\Debug\Магнит_с_кодом_383.Form1.resources
+D:\repos\Магнит с кодом_383\Магнит с кодом_383\obj\Debug\Магнит_с_кодом_383.Properties.Resources.resources
+D:\repos\Магнит с кодом_383\Магнит с кодом_383\obj\Debug\Магнит с кодом_383.csproj.GenerateResource.cache
+D:\repos\Магнит с кодом_383\Магнит с кодом_383\obj\Debug\Магнит с кодом_383.csproj.CoreCompileInputs.cache
+D:\repos\Магнит с кодом_383\Магнит с кодом_383\obj\Debug\Магнит с кодом_383.exe
+D:\repos\Магнит с кодом_383\Магнит с кодом_383\obj\Debug\Магнит с кодом_383.pdb

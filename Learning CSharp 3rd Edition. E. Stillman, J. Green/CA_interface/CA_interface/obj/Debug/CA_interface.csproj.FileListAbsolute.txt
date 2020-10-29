@@ -1,0 +1,7 @@
+D:\repos\CA_interface\CA_interface\bin\Debug\CA_interface.exe.config
+D:\repos\CA_interface\CA_interface\bin\Debug\CA_interface.exe
+D:\repos\CA_interface\CA_interface\bin\Debug\CA_interface.pdb
+D:\repos\CA_interface\CA_interface\obj\Debug\CA_interface.csprojAssemblyReference.cache
+D:\repos\CA_interface\CA_interface\obj\Debug\CA_interface.csproj.CoreCompileInputs.cache
+D:\repos\CA_interface\CA_interface\obj\Debug\CA_interface.exe
+D:\repos\CA_interface\CA_interface\obj\Debug\CA_interface.pdb

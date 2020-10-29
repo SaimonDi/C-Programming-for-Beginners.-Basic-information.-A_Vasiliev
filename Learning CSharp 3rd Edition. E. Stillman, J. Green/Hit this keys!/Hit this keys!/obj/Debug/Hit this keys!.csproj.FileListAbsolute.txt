@@ -1,0 +1,14 @@
+D:\repos\Hit this keys!\Hit this keys!\bin\Debug\Hit this keys!.exe.config
+D:\repos\Hit this keys!\Hit this keys!\bin\Debug\Hit this keys!.exe
+D:\repos\Hit this keys!\Hit this keys!\bin\Debug\Hit this keys!.pdb
+D:\repos\Hit this keys!\Hit this keys!\obj\Debug\Hit this keys!.csprojAssemblyReference.cache
+D:\repos\Hit this keys!\Hit this keys!\obj\Debug\Hit_this_keys_.Form1.resources
+D:\repos\Hit this keys!\Hit this keys!\obj\Debug\Hit_this_keys_.Properties.Resources.resources
+D:\repos\Hit this keys!\Hit this keys!\obj\Debug\Hit this keys!.csproj.GenerateResource.cache
+D:\repos\Hit this keys!\Hit this keys!\obj\Debug\Hit this keys!.csproj.CoreCompileInputs.cache
+D:\repos\Hit this keys!\Hit this keys!\obj\Debug\Hit this keys!.exe
+D:\repos\Hit this keys!\Hit this keys!\obj\Debug\Hit this keys!.pdb
+D:\repos\Hit this keys!\Hit this keys!\bin\Debug\Hit this keys!.exe.manifest
+D:\repos\Hit this keys!\Hit this keys!\bin\Debug\Hit this keys!.application
+D:\repos\Hit this keys!\Hit this keys!\obj\Debug\Hit this keys!.exe.manifest
+D:\repos\Hit this keys!\Hit this keys!\obj\Debug\Hit this keys!.application

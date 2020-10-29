@@ -1,0 +1,10 @@
+D:\repos\Label Jump\Label Jump\bin\Debug\Label Jump.exe.config
+D:\repos\Label Jump\Label Jump\bin\Debug\Label Jump.exe
+D:\repos\Label Jump\Label Jump\bin\Debug\Label Jump.pdb
+D:\repos\Label Jump\Label Jump\obj\Debug\Label Jump.csprojAssemblyReference.cache
+D:\repos\Label Jump\Label Jump\obj\Debug\Label_Jump.Form1.resources
+D:\repos\Label Jump\Label Jump\obj\Debug\Label_Jump.Properties.Resources.resources
+D:\repos\Label Jump\Label Jump\obj\Debug\Label Jump.csproj.GenerateResource.cache
+D:\repos\Label Jump\Label Jump\obj\Debug\Label Jump.csproj.CoreCompileInputs.cache
+D:\repos\Label Jump\Label Jump\obj\Debug\Label Jump.exe
+D:\repos\Label Jump\Label Jump\obj\Debug\Label Jump.pdb

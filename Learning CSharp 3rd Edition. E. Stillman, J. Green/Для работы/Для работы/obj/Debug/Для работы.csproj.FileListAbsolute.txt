@@ -1,0 +1,7 @@
+D:\repos\Для работы\Для работы\bin\Debug\Для работы.exe.config
+D:\repos\Для работы\Для работы\bin\Debug\Для работы.exe
+D:\repos\Для работы\Для работы\bin\Debug\Для работы.pdb
+D:\repos\Для работы\Для работы\obj\Debug\Для работы.csprojAssemblyReference.cache
+D:\repos\Для работы\Для работы\obj\Debug\Для работы.csproj.CoreCompileInputs.cache
+D:\repos\Для работы\Для работы\obj\Debug\Для работы.exe
+D:\repos\Для работы\Для работы\obj\Debug\Для работы.pdb

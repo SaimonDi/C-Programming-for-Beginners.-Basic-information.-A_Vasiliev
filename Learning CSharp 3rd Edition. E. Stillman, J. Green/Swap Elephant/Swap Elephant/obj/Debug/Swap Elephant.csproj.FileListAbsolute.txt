@@ -1,0 +1,10 @@
+D:\repos\Swap Elephant\Swap Elephant\bin\Debug\Swap Elephant.exe.config
+D:\repos\Swap Elephant\Swap Elephant\bin\Debug\Swap Elephant.exe
+D:\repos\Swap Elephant\Swap Elephant\bin\Debug\Swap Elephant.pdb
+D:\repos\Swap Elephant\Swap Elephant\obj\Debug\Swap Elephant.csprojAssemblyReference.cache
+D:\repos\Swap Elephant\Swap Elephant\obj\Debug\Swap_Elephant.Form1.resources
+D:\repos\Swap Elephant\Swap Elephant\obj\Debug\Swap_Elephant.Properties.Resources.resources
+D:\repos\Swap Elephant\Swap Elephant\obj\Debug\Swap Elephant.csproj.GenerateResource.cache
+D:\repos\Swap Elephant\Swap Elephant\obj\Debug\Swap Elephant.csproj.CoreCompileInputs.cache
+D:\repos\Swap Elephant\Swap Elephant\obj\Debug\Swap Elephant.exe
+D:\repos\Swap Elephant\Swap Elephant\obj\Debug\Swap Elephant.pdb

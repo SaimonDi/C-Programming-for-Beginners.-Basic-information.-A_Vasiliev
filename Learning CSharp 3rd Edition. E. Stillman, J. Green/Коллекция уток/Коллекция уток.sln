@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Коллекция уток", "Коллекция уток\Коллекция уток.csproj", "{ACEF76AB-3FE9-4D40-B5C6-FFEA15E9195A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACEF76AB-3FE9-4D40-B5C6-FFEA15E9195A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACEF76AB-3FE9-4D40-B5C6-FFEA15E9195A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACEF76AB-3FE9-4D40-B5C6-FFEA15E9195A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACEF76AB-3FE9-4D40-B5C6-FFEA15E9195A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62798CA0-01B4-4F0B-B609-4EA848F5CE19}
+	EndGlobalSection
+EndGlobal

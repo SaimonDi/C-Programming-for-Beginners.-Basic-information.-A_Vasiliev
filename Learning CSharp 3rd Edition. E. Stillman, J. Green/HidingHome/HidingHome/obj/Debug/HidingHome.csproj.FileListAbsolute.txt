@@ -1,0 +1,10 @@
+D:\repos\HidingHome\HidingHome\bin\Debug\HidingHome.exe.config
+D:\repos\HidingHome\HidingHome\bin\Debug\HidingHome.exe
+D:\repos\HidingHome\HidingHome\bin\Debug\HidingHome.pdb
+D:\repos\HidingHome\HidingHome\obj\Debug\HidingHome.csprojAssemblyReference.cache
+D:\repos\HidingHome\HidingHome\obj\Debug\HidingHome.Properties.Resources.resources
+D:\repos\HidingHome\HidingHome\obj\Debug\HidingHome.csproj.GenerateResource.cache
+D:\repos\HidingHome\HidingHome\obj\Debug\HidingHome.csproj.CoreCompileInputs.cache
+D:\repos\HidingHome\HidingHome\obj\Debug\HidingHome.exe
+D:\repos\HidingHome\HidingHome\obj\Debug\HidingHome.pdb
+D:\repos\HidingHome\HidingHome\obj\Debug\HidingHome.Form1.resources

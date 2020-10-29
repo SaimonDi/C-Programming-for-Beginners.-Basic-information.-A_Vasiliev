@@ -1,0 +1,10 @@
+D:\repos\Retired Jersey Numbers\Retired Jersey Numbers\bin\Debug\Retired Jersey Numbers.exe.config
+D:\repos\Retired Jersey Numbers\Retired Jersey Numbers\bin\Debug\Retired Jersey Numbers.exe
+D:\repos\Retired Jersey Numbers\Retired Jersey Numbers\bin\Debug\Retired Jersey Numbers.pdb
+D:\repos\Retired Jersey Numbers\Retired Jersey Numbers\obj\Debug\Retired Jersey Numbers.csprojAssemblyReference.cache
+D:\repos\Retired Jersey Numbers\Retired Jersey Numbers\obj\Debug\Retired_Jersey_Numbers.Form1.resources
+D:\repos\Retired Jersey Numbers\Retired Jersey Numbers\obj\Debug\Retired_Jersey_Numbers.Properties.Resources.resources
+D:\repos\Retired Jersey Numbers\Retired Jersey Numbers\obj\Debug\Retired Jersey Numbers.csproj.GenerateResource.cache
+D:\repos\Retired Jersey Numbers\Retired Jersey Numbers\obj\Debug\Retired Jersey Numbers.csproj.CoreCompileInputs.cache
+D:\repos\Retired Jersey Numbers\Retired Jersey Numbers\obj\Debug\Retired Jersey Numbers.exe
+D:\repos\Retired Jersey Numbers\Retired Jersey Numbers\obj\Debug\Retired Jersey Numbers.pdb

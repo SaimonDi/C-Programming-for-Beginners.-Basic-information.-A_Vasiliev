@@ -1,0 +1,10 @@
+D:\repos\Playing Cards\Playing Cards\bin\Debug\Playing Cards.exe.config
+D:\repos\Playing Cards\Playing Cards\bin\Debug\Playing Cards.exe
+D:\repos\Playing Cards\Playing Cards\bin\Debug\Playing Cards.pdb
+D:\repos\Playing Cards\Playing Cards\obj\Debug\Playing Cards.csprojAssemblyReference.cache
+D:\repos\Playing Cards\Playing Cards\obj\Debug\Playing_Cards.Form1.resources
+D:\repos\Playing Cards\Playing Cards\obj\Debug\Playing_Cards.Properties.Resources.resources
+D:\repos\Playing Cards\Playing Cards\obj\Debug\Playing Cards.csproj.GenerateResource.cache
+D:\repos\Playing Cards\Playing Cards\obj\Debug\Playing Cards.csproj.CoreCompileInputs.cache
+D:\repos\Playing Cards\Playing Cards\obj\Debug\Playing Cards.exe
+D:\repos\Playing Cards\Playing Cards\obj\Debug\Playing Cards.pdb

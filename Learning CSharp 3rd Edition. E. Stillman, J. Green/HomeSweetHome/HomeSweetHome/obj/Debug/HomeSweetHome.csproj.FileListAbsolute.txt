@@ -1,0 +1,10 @@
+D:\repos\HomeSweetHome\HomeSweetHome\bin\Debug\HomeSweetHome.exe.config
+D:\repos\HomeSweetHome\HomeSweetHome\bin\Debug\HomeSweetHome.exe
+D:\repos\HomeSweetHome\HomeSweetHome\bin\Debug\HomeSweetHome.pdb
+D:\repos\HomeSweetHome\HomeSweetHome\obj\Debug\HomeSweetHome.csprojAssemblyReference.cache
+D:\repos\HomeSweetHome\HomeSweetHome\obj\Debug\HomeSweetHome.Form1.resources
+D:\repos\HomeSweetHome\HomeSweetHome\obj\Debug\HomeSweetHome.Properties.Resources.resources
+D:\repos\HomeSweetHome\HomeSweetHome\obj\Debug\HomeSweetHome.csproj.GenerateResource.cache
+D:\repos\HomeSweetHome\HomeSweetHome\obj\Debug\HomeSweetHome.csproj.CoreCompileInputs.cache
+D:\repos\HomeSweetHome\HomeSweetHome\obj\Debug\HomeSweetHome.exe
+D:\repos\HomeSweetHome\HomeSweetHome\obj\Debug\HomeSweetHome.pdb

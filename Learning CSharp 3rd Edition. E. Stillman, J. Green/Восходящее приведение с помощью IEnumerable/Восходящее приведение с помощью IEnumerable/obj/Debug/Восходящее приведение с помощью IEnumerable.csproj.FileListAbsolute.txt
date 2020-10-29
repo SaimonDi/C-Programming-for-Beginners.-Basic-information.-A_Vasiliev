@@ -1,0 +1,7 @@
+D:\repos\Восходящее приведение с помощью IEnumerable\Восходящее приведение с помощью IEnumerable\bin\Debug\Восходящее приведение с помощью IEnumerable.exe.config
+D:\repos\Восходящее приведение с помощью IEnumerable\Восходящее приведение с помощью IEnumerable\bin\Debug\Восходящее приведение с помощью IEnumerable.exe
+D:\repos\Восходящее приведение с помощью IEnumerable\Восходящее приведение с помощью IEnumerable\bin\Debug\Восходящее приведение с помощью IEnumerable.pdb
+D:\repos\Восходящее приведение с помощью IEnumerable\Восходящее приведение с помощью IEnumerable\obj\Debug\Восходящее приведение с помощью IEnumerable.csprojAssemblyReference.cache
+D:\repos\Восходящее приведение с помощью IEnumerable\Восходящее приведение с помощью IEnumerable\obj\Debug\Восходящее приведение с помощью IEnumerable.csproj.CoreCompileInputs.cache
+D:\repos\Восходящее приведение с помощью IEnumerable\Восходящее приведение с помощью IEnumerable\obj\Debug\Восходящее приведение с помощью IEnumerable.exe
+D:\repos\Восходящее приведение с помощью IEnumerable\Восходящее приведение с помощью IEnumerable\obj\Debug\Восходящее приведение с помощью IEnumerable.pdb
