@@ -1,7 +1,0 @@
-D:\repos\Magazin Console\Magazin Console\bin\Debug\Magazin Console.exe.config
-D:\repos\Magazin Console\Magazin Console\bin\Debug\Magazin Console.exe
-D:\repos\Magazin Console\Magazin Console\bin\Debug\Magazin Console.pdb
-D:\repos\Magazin Console\Magazin Console\obj\Debug\Magazin Console.csprojAssemblyReference.cache
-D:\repos\Magazin Console\Magazin Console\obj\Debug\Magazin Console.csproj.CoreCompileInputs.cache
-D:\repos\Magazin Console\Magazin Console\obj\Debug\Magazin Console.exe
-D:\repos\Magazin Console\Magazin Console\obj\Debug\Magazin Console.pdb

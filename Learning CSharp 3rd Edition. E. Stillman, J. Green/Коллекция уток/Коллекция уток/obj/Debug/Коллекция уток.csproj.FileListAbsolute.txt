@@ -1,7 +1,0 @@
-D:\repos\Коллекция уток\Коллекция уток\bin\Debug\Коллекция уток.exe.config
-D:\repos\Коллекция уток\Коллекция уток\bin\Debug\Коллекция уток.exe
-D:\repos\Коллекция уток\Коллекция уток\bin\Debug\Коллекция уток.pdb
-D:\repos\Коллекция уток\Коллекция уток\obj\Debug\Коллекция уток.csprojAssemblyReference.cache
-D:\repos\Коллекция уток\Коллекция уток\obj\Debug\Коллекция уток.csproj.CoreCompileInputs.cache
-D:\repos\Коллекция уток\Коллекция уток\obj\Debug\Коллекция уток.exe
-D:\repos\Коллекция уток\Коллекция уток\obj\Debug\Коллекция уток.pdb
