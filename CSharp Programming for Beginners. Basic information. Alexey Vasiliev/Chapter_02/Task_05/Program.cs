@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 /*
 	Задние №5
 	
@@ -17,6 +13,10 @@ namespace Task_05
         {
         static void Main(string[] args)
             {
+            Console.Write("Введите число больше тысячи: ");
+            int number = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine($"в этом числе {number / 1000 % 1000} тысяч");
             }
         }
     }

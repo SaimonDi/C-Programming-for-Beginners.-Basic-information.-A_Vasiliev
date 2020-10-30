@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 /*
 	Задние №6
 	
@@ -17,6 +13,14 @@ namespace Task_06
         {
         static void Main(string[] args)
             {
+            Console.Write("Введите число: ");
+            int num1 = Convert.ToInt32(Console.ReadLine(), 8);
+
+            string num2 = Convert.ToString(num1, 8);
+            int number = Convert.ToInt32(num2);
+
+            Console.WriteLine(number / 10 % 10);
+
             }
         }
     }

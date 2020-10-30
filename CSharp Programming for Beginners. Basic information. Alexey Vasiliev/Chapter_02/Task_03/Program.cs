@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 /*
 	Задние №3
 	
@@ -17,6 +13,10 @@ namespace Task_03
         {
         static void Main(string[] args)
             {
+            Console.Write("Введите число, которое делится 5 на и при этом не меньше 10: ");
+            int number = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine((number % 5 == 0) && (number > 10) ? "Число подходит под условия" : "Число не подходит условиям");
             }
         }
     }

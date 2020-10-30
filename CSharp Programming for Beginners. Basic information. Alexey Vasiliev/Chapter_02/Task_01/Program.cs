@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 /*
 	Задние №1
 	
@@ -14,6 +10,11 @@ namespace Task_01
         {
         static void Main(string[] args)
             {
+            Console.Write("Введите число: ");
+            int number = Convert.ToInt32(Console.ReadLine());
+
+
+            Console.WriteLine(number % 3 == 0 ? "Число делится на 3" : "Число не делится на три");
             }
         }
     }

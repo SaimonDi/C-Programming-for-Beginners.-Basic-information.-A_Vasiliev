@@ -1,0 +1,7 @@
+D:\repos\CSharp-programming.-Independent-work-from-books\CSharp Programming for Beginners. Basic information. Alexey Vasiliev\Chapter_02\Task_06\bin\Debug\Task_06.exe.config
+D:\repos\CSharp-programming.-Independent-work-from-books\CSharp Programming for Beginners. Basic information. Alexey Vasiliev\Chapter_02\Task_06\bin\Debug\Task_06.exe
+D:\repos\CSharp-programming.-Independent-work-from-books\CSharp Programming for Beginners. Basic information. Alexey Vasiliev\Chapter_02\Task_06\bin\Debug\Task_06.pdb
+D:\repos\CSharp-programming.-Independent-work-from-books\CSharp Programming for Beginners. Basic information. Alexey Vasiliev\Chapter_02\Task_06\obj\Debug\Task_06.csprojAssemblyReference.cache
+D:\repos\CSharp-programming.-Independent-work-from-books\CSharp Programming for Beginners. Basic information. Alexey Vasiliev\Chapter_02\Task_06\obj\Debug\Task_06.csproj.CoreCompileInputs.cache
+D:\repos\CSharp-programming.-Independent-work-from-books\CSharp Programming for Beginners. Basic information. Alexey Vasiliev\Chapter_02\Task_06\obj\Debug\Task_06.exe
+D:\repos\CSharp-programming.-Independent-work-from-books\CSharp Programming for Beginners. Basic information. Alexey Vasiliev\Chapter_02\Task_06\obj\Debug\Task_06.pdb

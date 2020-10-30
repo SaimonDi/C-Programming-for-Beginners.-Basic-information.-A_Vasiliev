@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 /*
 	Задние №2
 	
@@ -16,6 +12,10 @@ namespace Task_02
         {
         static void Main(string[] args)
             {
+            Console.Write("Введите число, которое при делении на 5 имеет остаток 2, а при делении 7 - 1: ");
+            int number = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine((number % 5 == 2) && (number % 7 == 1) ? "Число подход условиям" : "Число не подходит условиям");
             }
         }
     }
