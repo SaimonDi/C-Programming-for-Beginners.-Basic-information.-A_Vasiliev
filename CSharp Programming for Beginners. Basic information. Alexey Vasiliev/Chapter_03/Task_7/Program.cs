@@ -17,6 +17,22 @@ namespace Task_7
         {
         static void Main(string[] args)
             {
+            int sum = 0;
+            try
+                {
+                Console.Write("Введите число: ");
+                int number = Convert.ToInt32(Console.ReadLine());
+
+                for(int i = 1; i <= number;i++)
+                    {
+                    sum += (int)Math.Pow(i,2);
+                    }
+                }
+            catch
+                {
+                Console.WriteLine("Необходимо вводить число!");
+                }
+            Console.WriteLine($"Сумма квадрата суммы чисел равна: {sum}");
             }
         }
     }

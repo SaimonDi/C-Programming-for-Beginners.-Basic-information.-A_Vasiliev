@@ -18,6 +18,28 @@ namespace Task_5
         {
         static void Main(string[] args)
             {
+            Console.Write("Введите день недели: ");
+            string weekDay = Console.ReadLine();
+
+            switch(weekDay)
+                {
+                case "понедельник": 
+                case "Понедельник": Console.WriteLine($"Это 1 день недели."); break;
+                case "вторник": 
+                case "Вторник": Console.WriteLine($"Это 2 день недели."); break;
+                case "среда": 
+                case "Среда": Console.WriteLine($"Это 3 день недели."); break;
+                case "четверг": 
+                case "Четверг": Console.WriteLine($"Это 4 день недели."); break;
+                case "пятница": 
+                case "Пятница": Console.WriteLine($"Это 5 день недели."); break;
+                case "суббота": 
+                case "Суббота": Console.WriteLine($"Это 6 день недели."); break;
+                case "воскресенье": 
+                case "Воскресенье": Console.WriteLine($"Это 7 день недели."); break;
+                default:
+                Console.WriteLine("Такого дня недели не существует"); break;
+                }
             }
         }
     }

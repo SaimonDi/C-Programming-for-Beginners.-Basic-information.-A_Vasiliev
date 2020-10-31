@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 /*
@@ -17,6 +18,23 @@ namespace Task_6
         {
         static void Main(string[] args)
             {
+            int number = 0, sum = 0;
+            try
+                {
+                Console.Write("Введите число: ");
+                number = Convert.ToInt32(Console.ReadLine());
+
+                for(; number > 0; number--)
+                    {
+                    if(number % 2 == 1)
+                        sum += number;
+                    }
+                }
+            catch
+                {
+                Console.WriteLine("Необходимо число!");
+                }
+            Console.WriteLine($"Сумма нечётных чисел равна {sum}");
             }
         }
     }

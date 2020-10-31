@@ -20,6 +20,24 @@ namespace Task_8
         {
         static void Main(string[] args)
             {
+			int a = 1, b = 1, next;
+            Console.Write("Введите количество чисел в последовательности Фиббоначи: "); 
+            int howMany = Convert.ToInt32(Console.ReadLine());
+
+            Console.Write("1 1 ");
+
+            while(howMany-2>0)
+                {
+                next = a + b;
+
+                a = b;
+                b = next;
+
+                Console.Write($"{next} ");
+                howMany--;
+                }
+
+            Console.WriteLine(Environment.NewLine+"Конец.");
             }
         }
     }

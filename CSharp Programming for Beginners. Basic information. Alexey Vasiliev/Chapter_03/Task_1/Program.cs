@@ -18,6 +18,25 @@ namespace Task_1
         {
         static void Main(string[] args)
             {
+            try
+                {
+                Console.Write("Введите число: ");
+                int num = Convert.ToInt32(Console.ReadLine());
+
+                if(num%3==0&&num%7==0)
+                    {
+                    Console.WriteLine($"Число {num} подходит под критерии.");
+                    }
+                else
+                    {
+                    Console.WriteLine("Число не подходит под критерии.");    
+                    }
+
+                }
+            catch
+                {
+                Console.WriteLine("Необходимо ввести число!");
+                }
             }
         }
     }
