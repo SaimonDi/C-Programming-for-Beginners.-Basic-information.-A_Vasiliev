@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 /*
 	Задние №1
 	
@@ -18,6 +14,37 @@ namespace Task_1
         {
         static void Main(string[] args)
             {
+            int[] massNumb;
+
+            try
+                {
+                Console.Write("Определите размер массива: ");
+                int howMany = Convert.ToInt32(Console.ReadLine());
+
+                massNumb = new int[howMany];
+                int i = 0;
+
+                for(int j = 0; j < massNumb.Length; j++)
+                    {
+                    do
+                        {
+                        i++;
+                        if(i % 5 == 2)
+                            {
+                            massNumb[j] = i;
+                            }
+                        } while(massNumb[j] != i);
+                    }
+
+                foreach(int s in massNumb)
+                    {
+                    Console.Write($"{s,2} ");
+                    }
+                }
+            catch
+                {
+                Console.WriteLine("Некорректное значение!");
+                }
             }
         }
     }

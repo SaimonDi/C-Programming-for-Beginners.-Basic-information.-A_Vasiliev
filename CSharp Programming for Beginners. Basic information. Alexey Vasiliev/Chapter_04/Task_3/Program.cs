@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 /*
 	Задние №3
 	
@@ -19,6 +15,24 @@ namespace Task_3
         {
         static void Main(string[] args)
             {
+            char[] massChar = new char[10];
+
+            for(int i = 0; i < massChar.Length; i++)
+                {
+                massChar[i] = (char)('a' + 2*i);
+                }
+
+            foreach(char s in massChar)
+                {
+                Console.Write($"{s,2}");
+                }
+            Console.WriteLine();
+
+            for(int i = massChar.Length - 1; i >= 0; i--)
+                {
+                Console.Write($"{massChar[i],2}");
+                }
+            Console.WriteLine();
             }
         }
     }

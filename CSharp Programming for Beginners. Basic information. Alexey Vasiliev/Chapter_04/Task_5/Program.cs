@@ -18,6 +18,40 @@ namespace Task_5
         {
         static void Main(string[] args)
             {
+            int[] massNumb = new int[100];
+            Random rnd = new Random();
+
+            for(int i = 0; i < massNumb.Length; i++)
+                {
+                massNumb[i] = rnd.Next(1,101);
+                }
+
+            int index = 0;
+            int value = massNumb[index];
+            string s = "";
+
+            for(int i = 0; i < massNumb.Length; i++)
+                {
+                if(massNumb[i]<value)
+                    {
+                    value = massNumb[i];
+                    index = i;
+                    }
+                }
+
+            Console.WriteLine($"Минимальное число: {value}");
+
+            for(int i = 0; i < massNumb.Length; i++)
+                {
+                if(massNumb[i]==value)
+                    {
+                    value = massNumb[i];
+                    index = i;
+                    s += $"{index} ";
+                    }
+                }
+            
+            Console.WriteLine($"Индексы : {s}");
             }
         }
     }

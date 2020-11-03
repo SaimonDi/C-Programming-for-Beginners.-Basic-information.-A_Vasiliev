@@ -19,6 +19,31 @@ namespace Task_8
         {
         static void Main(string[] args)
             {
+            int[,] massNumb = new int[3,5], massNumbInvert = new int[massNumb.GetLength(1),massNumb.GetLength(0)];
+            Random rnd = new Random();
+
+            for(int i = 0; i < massNumb.GetLength(0); i++)
+                {
+                for(int j = 0; j < massNumb.GetLength(1); j++)
+                    {
+                    massNumb[i, j] = rnd.Next(100);
+                    Console.Write($"{massNumb[i,j]}\t");
+                    massNumbInvert[j, i] = massNumb[i, j];
+                    }
+                Console.WriteLine();
+                }
+            Console.WriteLine();
+
+
+            for(int i = 0; i < massNumbInvert.GetLength(0); i++)
+                {
+                for(int j = 0; j < massNumbInvert.GetLength(1); j++)
+                    {
+                    Console.Write($"{massNumbInvert[i,j]}\t");
+                    }
+                Console.WriteLine();
+                }
+            Console.WriteLine();
             }
         }
     }
